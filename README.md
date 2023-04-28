@@ -7,6 +7,11 @@ It separates different teeworlds client configs. Using storage.cfg
 and bash aliases. So you are forced to use `bash` shell to launch
 your client. 
 
+## dependencies
+
+You need ``chillerbot-zx`` in your PATH
+which is a private hax client. So get f**ked
+
 ## setup
 
 ```bash
